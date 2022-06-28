@@ -1,6 +1,6 @@
 # my-notes
 
-`here to start`
+`here we start`
 ## Introduction
 Hello fellow dev. <br>
 My name is **Salah**  <br>
